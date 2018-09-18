@@ -1,0 +1,28 @@
+h1 {
+padding-left: 100px;
+
+}
+#box
+{
+
+  min-width: 60px;
+  max-width: 250px;
+  border: dashed 3px;
+  border-color:black;
+
+
+}
+.boat
+{
+  
+  margin-left:100px;
+}
+.yumbo
+{
+border: 2px solid;
+border-width: 2px;
+
+float:right;
+min-width:100px;
+max-width:400px;
+}
